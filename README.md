@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DavidMar29/DavidMar29/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DavidMar29/DavidMar29/snake.svg" alt="Snake animation" />
 
 ###
